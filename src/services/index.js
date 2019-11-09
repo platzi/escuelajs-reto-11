@@ -1,4 +1,4 @@
-const MongoConnect = require('../lib/mongo')
+const MongoConnect = require('../lib/mongo');
 
 class ProductService {
   constructor() {
